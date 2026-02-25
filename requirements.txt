@@ -1,0 +1,22 @@
+# Core LLM Stack (aligned versions)
+langchain==0.2.16
+langchain-core==0.2.43
+langchain-community==0.2.16
+langchain-google-genai==1.0.5
+langgraph==0.2.20
+
+# Pydantic (v2 only)
+pydantic==2.7.4
+
+# Web framework
+flask==3.0.2
+flask-cors==4.0.0
+
+# Environment handling
+python-dotenv==1.0.1
+
+# Google image generation support
+google-genai>=0.3.0
+
+# Optional: Tavily research tool
+tavily-python>=0.3.0
