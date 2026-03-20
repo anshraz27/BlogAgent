@@ -12,6 +12,9 @@ pydantic==2.7.4
 flask==3.0.2
 flask-cors==4.0.0
 
+# Production WSGI server
+gunicorn>=21.2.0
+
 # Environment handling
 python-dotenv==1.0.1
 
